@@ -2,5 +2,6 @@ package demo;
 
 public class BestClass {
 
-    private float id;
+    //f4 float --> String
+    private String id;
 }
