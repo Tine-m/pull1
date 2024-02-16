@@ -2,5 +2,6 @@ package demo;
 
 public class BestClass {
 
-    private String id;
+
+    private int id;
 }
